@@ -1,0 +1,2 @@
+# AssoicationMining
+One of the world’s best Customer Flow Communication platform – SimplyCast wants to analyze the website clicks data to identify the association between various milestones for users and sessions. As part of this analysis, the 6,65,435 data records of SimplyCast from 20-Jul-2015 to 17-Dec-2015 were analyzed and the findings were reported that may be beneficial to the company in understanding the customers use of various milestones and the association between them.
